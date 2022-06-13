@@ -2,5 +2,6 @@ Rian resolusi
 - konsisten belajar
 - belajar laravel
 - belajar API
-- belajar tailwind
+- belajar javascript
+- belajar framework javascript
 - membuat project 
