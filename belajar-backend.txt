@@ -2,3 +2,6 @@ BACKEND WEB DEVELOPER
 -php
 -laravel
 -codeigniter
+
+-javascript
+-nodeJS
