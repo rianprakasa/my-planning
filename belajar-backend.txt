@@ -3,7 +3,7 @@ BACKEND WEB DEVELOPER
 utama
 -php
 -laravel
--codeigniter
+-symphony
 -mySQL
 
 
@@ -11,3 +11,4 @@ opsional
 -javascript
 -nodeJS
 -mongoDB
+-express JS
