@@ -1,9 +1,10 @@
 BACKEND WEB DEVELOPER
 -php
 -laravel
--codeigniter
+-symphony
 -mySQL
 
 -javascript
 -nodeJS
 -mongoDB
+-express JS
