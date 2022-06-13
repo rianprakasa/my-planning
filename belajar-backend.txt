@@ -1,9 +1,13 @@
 BACKEND WEB DEVELOPER
+
+utama
 -php
 -laravel
 -codeigniter
 -mySQL
 
+
+opsional
 -javascript
 -nodeJS
 -mongoDB
